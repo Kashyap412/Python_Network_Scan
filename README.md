@@ -17,6 +17,6 @@ pip install -r requirements.txt
 
 # Syntax
 
-python netscan.py -t 10.0.2.1/24
+python Network_Scan.py -t 192.168.0.1/24
 
 ```
